@@ -1,0 +1,15 @@
+{
+  "name": "websocket-sample",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "v8-profiler": "^5.7.0",
+    "ws": "^2.3.1"
+  }
+}
